@@ -6,7 +6,7 @@ Finally have some fun with beauty (that is - css), working on layout, colors, im
 
 ## 🍓 First look 
 
-![profil badge](https://github.com/tusia313/css-profile-badge/img/screen_1.png)
+![profil badge](./img/screen_1.png)
 
 ## 🍓 Technologies
 

@@ -1,0 +1,44 @@
+body {
+    /* <!-- Picture taken by Polina Tankilevitch: 
+            https://www.pexels.com/pl-pl/zdjecie/jedzenie-talerz-swiatla-przyjecie-4110012/ --> */
+    background-image: url("../img/pexels-rodion-kutsaiev-3429783.jpg");
+    /* just in case */
+    background-color: rgb(250, 200, 239);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.badge {
+    width: 26rem;
+    padding: 2em 2.5em;
+    background-color: rgb(255, 255, 255);
+    margin: 10rem auto;
+    /* font-fami0 ly: 'Archivo Narrow', sans-serif; */
+    text-align: center;
+    font-family: 'Julius Sans One', Arial, sans-serif;
+    color: rgb(40,39,39);
+    border-radius: 1em;
+    /* fun neon-shadow effect */
+    box-shadow: inset rgb(255, 20, 189) 0 0 0.5em 0, rgb(255, 20, 189) 0 0 0.5em 0;
+    /* "conservative" effect xd */
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0 2px 5px -1px, rgba(0, 0, 0, 0.3); */
+}
+
+.badge > p {
+    font-family: 'Archivo Narrow', Arial, sans-serif;
+    /* not entirly sure about that, mayby all in Julius Sans One will be better? */
+    font-size: 1.3em;
+}
+
+.badge img {
+    width: 10em;
+    border-radius: 5em;
+}
+
+.badge a {
+    display: inline-block;
+    font-size: 1.3em;
+    text-decoration: none;
+    margin: 1em;
+}

@@ -1,4 +1,4 @@
-# 🗿 Profile bagde 🗿
+# 🃏 Profile bagde 🃏
 
 ## 🍓 What's it about?
 
